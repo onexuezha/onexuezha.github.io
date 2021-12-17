@@ -82,15 +82,6 @@
     <priority>0.6</priority>
   </url>
   
-  <url>
-    <loc>https://onexuezha.github.io/post/64126.html</loc>
-    
-    <lastmod>2021-12-11</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
 
   <url>
     <loc>https://onexuezha.github.io/</loc>
@@ -101,13 +92,6 @@
 
   
   <url>
-    <loc>https://onexuezha.github.io/tags/%E7%AC%94%E8%AE%B0/</loc>
-    <lastmod>2021-12-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://onexuezha.github.io/tags/hexo%E4%BC%98%E5%8C%96/</loc>
     <lastmod>2021-12-17</lastmod>
     <changefreq>weekly</changefreq>
@@ -115,13 +99,6 @@
   </url>
   
 
-  
-  <url>
-    <loc>https://onexuezha.github.io/categories/c/</loc>
-    <lastmod>2021-12-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
   
   <url>
     <loc>https://onexuezha.github.io/categories/hexo/</loc>
