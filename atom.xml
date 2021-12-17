@@ -6,7 +6,7 @@
   <link href="https://onexuezha.github.io/atom.xml" rel="self"/>
   
   <link href="https://onexuezha.github.io/"/>
-  <updated>2021-12-12T07:45:39.206Z</updated>
+  <updated>2021-12-17T12:43:55.219Z</updated>
   <id>https://onexuezha.github.io/</id>
   
   <author>
@@ -15,6 +15,19 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>about</title>
+    <link href="https://onexuezha.github.io/post/b5f422e3.html"/>
+    <id>https://onexuezha.github.io/post/b5f422e3.html</id>
+    <published>2021-12-17T12:43:55.000Z</published>
+    <updated>2021-12-17T12:43:55.219Z</updated>
+    
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>教程：基于Butterfly的深度优化</title>
