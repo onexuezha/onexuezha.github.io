@@ -1,8 +1,1 @@
-#footer{background:rgba(255,255,255,.15);color:#000;border-top-right-radius:20px;border-top-left-radius:20px;backdrop-filter:saturate(100%)blur(5px)}#footer #footer-wrap{color:var(--font-color)}#footer #footer-wrap a{color:var(--font-color)}#footer#footer-wrap,#footer#foote
-#recent-posts>.post-card-large {
-    height: 20em!important;
-  }
-  
-  #recent-posts > .post-card-large >.recent-post-info > .content{
-    -webkit-line-clamp: 5!important;
-  }
+#footer{background:rgba(255,255,255,.15);color:#000;border-top-right-radius:20px;border-top-left-radius:20px;backdrop-filter:saturate(100%) blur(5px)}#footer #footer-wrap{color:var(--font-color)}#footer #footer-wrap a{color:var(--font-color)}#footer#foote #recent-posts>.post-card-large,#footer#footer-wrap{height:20em!important}#recent-posts>.post-card-large>.recent-post-info>.content{-webkit-line-clamp:5!important}
