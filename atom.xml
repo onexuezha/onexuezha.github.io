@@ -40,7 +40,7 @@
     <link href="https://onexuezha.github.io/post/ed8385e4.html"/>
     <id>https://onexuezha.github.io/post/ed8385e4.html</id>
     <published>2021-12-26T12:27:23.000Z</published>
-    <updated>2021-12-27T04:19:19.016Z</updated>
+    <updated>2021-12-27T04:23:12.695Z</updated>
     
     <content type="html"><![CDATA[<h1 id="导言"><a href="#导言" class="headerlink" title="导言"></a>导言</h1><p>最近有些文件需要加密，防止被别人窃取，但是找了很久也没找到符合心意的软件，好在皇天不负有心人，我最终找到了号称FBI也破解不了的加密软件</p><h1 id="什么是VeraCrypt？"><a href="#什么是VeraCrypt？" class="headerlink" title="什么是VeraCrypt？"></a>什么是VeraCrypt？</h1><p><a href="https://veracrypt.fr/en/Home.html">下载链接</a></p><p>VeraCrypt 中文版是一款适用于 Windows，Mac OSX 和 Linux 的免费开源磁盘加密软件。VeraCrypt 是 TrueCrypt 的分支，主要开发者是法国的 Mounir Idrassi，他在 TrueCrypt 基础上强化了防暴力免费功能。VeraCrypt 增强了用于系统和分区加密的算法的安全性，使其免受暴力免费攻击。VeraCrypt 还解决了TrueCrypt中发现的许多漏洞和安全问题。</p><h1 id="VeraCrypt-主要特点"><a href="#VeraCrypt-主要特点" class="headerlink" title="VeraCrypt 主要特点"></a>VeraCrypt 主要特点</h1><p>在文件中创建虚拟加密磁盘并将其作为实际磁盘安装。<br>加密整个分区或存储设备，如 USB 闪存驱动器或硬盘驱动器。<br>加密安装 Windows 的分区或驱动器（预启动身份验证）。<br>加密是自动的，实时的（即时）和透明的。<br>并行化和流水线操作允许读取和写入数据，就像驱动器未加密一样快。<br>加密可以在现代处理器上进行硬件加速。<br>如果对手强迫您泄露密码，则提供合理的拒绝：隐藏卷（隐写）和隐藏的操作系统。</p><p>VeraCrypt 是一个用于建立和维护动态加密卷（数据存储设备）的软件。即时加密意味着数据在保存之前就会自动加密，并在加载后立即解密，无需任何用户干预。如果不使用正确的密码/密钥文件或正确的加密密钥，则无法读取（解密）存储在加密卷上的数据。整个文件系统被加密（例如，文件名，文件夹名，每个文件的内容，空闲空间，元数据等）。</p><p>可以将文件复制到已安装的 VeraCrypt 卷中，也可以将其复制到任何普通磁盘上（例如，通过简单的拖放操作）。在从加密的 VeraCrypt 卷读取或复制文件时，文件会在运行中（在内存/RAM 中）自动解密。同样，正在写入或复制到 VeraCrypt 卷的文件会在 RAM 中自动加密（在它们写入磁盘之前）。请注意，这并不意味着要加密/解密的整个文件必须先存储在RAM中才能加密/解密。VeraCrypt 没有额外的内存（RAM）要求。有关如何完成此操作的说明，请参阅以下段落。</p><p>假设有一个 .avi 视频文件存储在 VeraCrypt 卷上（因此，视频文件是完全加密的）。用户提供正确的密码（和/或密钥文件）并安装（打开）VeraCrypt 卷。当用户双击视频文件的图标时，操作系统启动与文件类型相关联的应用程序 – 通常是媒体播放器。然后，媒体播放器开始将视频文件的一小部分初始部分从 VeraCrypt 加密卷加载到 RAM（存储器）以便播放它。在加载该部分时，VeraCrypt 会自动解密它（在 RAM 中）。然后，媒体播放器播放视频的解密部分（存储在 RAM 中）。在播放此部分时，媒体播放器开始将另一小部分视频文件从 VeraCrypt 加密卷加载到 RAM（内存），然后重复该过程。此过程称为动态加密/解密，适用于所有文件类型（不仅适用于视频文件）。</p><p>请注意，VeraCrypt 从不将任何解密数据保存到磁盘 – 它只将它们临时存储在 RAM（内存）中。即使安装了卷，存储在卷中的数据仍然是加密的。当您重新启动Windows或关闭计算机时，将卸除卷，并且将无法访问（并加密）存储在其中的文件。即使电源突然中断（没有正确的系统关闭），存储在卷中的文件也是不可访问（和加密）的。要使它们再次可访问，您必须装入卷（并提供正确的密码和/或密钥文件）。</p><p>有关 VeraCrypt 功能的更多信息，请参阅文档。</p>]]></content>
     
@@ -52,6 +52,8 @@
     <category term="优质推荐" scheme="https://onexuezha.github.io/categories/%E4%BC%98%E8%B4%A8%E6%8E%A8%E8%8D%90/"/>
     
     
+    <category term="软件" scheme="https://onexuezha.github.io/tags/%E8%BD%AF%E4%BB%B6/"/>
+    
   </entry>
   
   <entry>
@@ -59,7 +61,7 @@
     <link href="https://onexuezha.github.io/post/f6880df7.html"/>
     <id>https://onexuezha.github.io/post/f6880df7.html</id>
     <published>2021-12-26T11:16:37.000Z</published>
-    <updated>2021-12-27T04:19:25.100Z</updated>
+    <updated>2021-12-27T04:23:21.444Z</updated>
     
     <content type="html"><![CDATA[<h1 id="导言"><a href="#导言" class="headerlink" title="导言"></a>导言</h1><p><a href="https://link.zhihu.com/?target=http://ankisrs.net/">ankisrs.net/</a>官网下载</p><p>最近在学习前端，其中的标签，语句等等当时记得，但过了一两个星期就忘了。</p><p>因此我翻遍了知乎，从中找到了一款软件——Anki，不得不说它是我用过最好的记忆软件，艾宾浩斯，卡片记忆，笔记功能，收藏，标星等等</p><h1 id="Anki是什么？"><a href="#Anki是什么？" class="headerlink" title="Anki是什么？"></a>Anki是什么？</h1><p>本质上来说，Anki是一个辅助记忆软件，它<strong>可以在相对合适的时间来告诉你复习什么比较好。</strong></p><p>那么为什么我推荐使用Anki呢，它又适合哪些人呢？</p><ul><li><p><strong>它解决了我最为苦恼的遗忘问题。</strong>说解决或许有点夸大，但是每个人都会被遗忘所困扰。</p></li><li><ul><li><p>学生经常苦恼</p></li><li><ul><li>不知道复习，或者是即便复习了但是间隔过久也导致经常有遗忘的受挫感</li><li>学了新知识点就忘了</li></ul></li><li><p>工作的人</p></li><li><ul><li><p>经常说自己老了，记不住，记忆力退化</p></li><li><p>看书看完之后也就遗忘了</p></li><li><ul><li>或者即便做了读书笔记也并没有经常回顾复习</li></ul></li></ul></li></ul></li></ul><p>但是大多数人其实没有一个好的方法和工具来让自己保持持续学习与复习，而Anki恰好可以弥补。</p><ul><li><p><strong>Anki适合所有终身学习的人。</strong>不管你是小初高中大学生，也不需要关注你是否已经工作不需要再看那些学校的教材。只要你还有一天需要记忆你想要记忆的，学习你现在或者之后需要学习的知识，那么Anki就适合你。</p></li><li><p><strong>Anki可以帮助你记忆所有东西而不仅仅是单词。</strong>最初Anki的创作者的目的是利用这个软件来学习日语，Anki一词也来自于日语“暗記【あんき】【annki】◎” 但是作者只是开发这个软件的人，而更多的人使用这个软件也发现</p></li><li><ul><li>不仅能够帮助记忆单词，学习外语</li><li><strong>还可以学习各个科目的知识点</strong></li><li><strong>或者输入复习计划辅助自己进行学习。例如考研 四六级 GRE等</strong>都可以</li></ul></li><li><p><strong>Anki的自定义和可扩展性极强</strong>。所谓的自定义是说你可以利用ANKI呈现多种多样的形式，并且也可以自己调整参数来让Anki更加适合你。可扩展性就是有许多插件以及外部的工具来让ANKI更加强大。</p></li></ul><h1 id="Anki怎么使用？"><a href="#Anki怎么使用？" class="headerlink" title="Anki怎么使用？"></a>Anki怎么使用？</h1><p>在知乎上找了几篇不错的文章，自己学吧</p><p><a href="https://www.zhihu.com/question/28335314">使用教程</a></p><p><a href="https://www.zhihu.com/search?type=content&q=anki%E6%8F%92%E4%BB%B6">插件</a></p>]]></content>
     
@@ -70,6 +72,8 @@
     
     <category term="优质推荐" scheme="https://onexuezha.github.io/categories/%E4%BC%98%E8%B4%A8%E6%8E%A8%E8%8D%90/"/>
     
+    
+    <category term="软件" scheme="https://onexuezha.github.io/tags/%E8%BD%AF%E4%BB%B6/"/>
     
   </entry>
   
