@@ -6,7 +6,7 @@
   <link href="https://onexuezha.github.io/atom.xml" rel="self"/>
   
   <link href="https://onexuezha.github.io/"/>
-  <updated>2021-12-27T04:08:08.403Z</updated>
+  <updated>2022-01-01T05:12:14.942Z</updated>
   <id>https://onexuezha.github.io/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>2021年终总结</title>
+    <link href="https://onexuezha.github.io/post/a23e5172.html"/>
+    <id>https://onexuezha.github.io/post/a23e5172.html</id>
+    <published>2022-01-01T04:42:24.000Z</published>
+    <updated>2022-01-01T05:12:14.942Z</updated>
+    
+    <content type="html"><![CDATA[<p> 不知不觉，2021已经过去</p><p>在这一年里，我的收获说小不小，说大不大</p><p>我遇见了很多朋友</p><p>同时</p><p>我也遇到了无数个bug，至今记忆犹新</p><p>其实，早在我初一时就开始搭建博客了，那时的我对前端基本空白，自己也不想靠别人也就没加蝴蝶主题qq群，一个人每天对着电脑敲代码，改bug。</p><p>可惜当时的忘记装一个插件导致无数次失败，但我又住校周六周日才有空去搞博客。最后还是放弃了</p><p>暑假来了，我又尝试搭建博客，但这次不同，我学了HTML与css，过程仍然艰辛，常常是一个bug改好了，另一个bug出来了，改也改不完，再一次放弃。当然不是说暑假就只搭建了博客，我还另外学了Unity开发了一款超多bug的游戏（反正干啥都会遇见bug）</p><p>步入初二的大门，我依然没有放弃，每天都在和bug做斗争，尽管每次都是我输</p><p>直到——2021.9.3</p><p>初二，不住校了，在上完晚自习后就萌生了搞Linux的想法，间接接触了vm虚拟机，也知道了快照的概念，按理说我应该会把精力方式到Ubuntu上，但事实并非如此，当我知道vm虚拟机的快照功能后，立马想到了可以用来搭建hexo，很庆幸，这是个正确的选择。后面就开始用快照功能一点一点搭建博客（以下是我保存的快照）<img src="https://unpkg.zhimg.com/onexuezha_article_img1@1.0.4/2021%E5%B9%B4%E6%80%BB%E6%80%BB%E7%BB%93/2021_1.webp"></p><p>然而</p><p>bug并没有离开我，后面建着建着发现很多奇葩的bug，比如代码复制用不了，无论点击哪个文章都跳转到同一个文章，等我解决了这些bug，又发现index.css加载不了，整个页面只有HTML</p><p>因此</p><p>我又把博客想方设法地转到了物理机上，最后成了，也一直用到了今天</p><p>遇到了这么多bug，我觉得还是蛮值得，在这么多bug中我总结了很多经验，养成了许多好习惯，更为重要的是我获得了比别人更扎实的基础，这在将来对我一定会有很大的帮助！</p><p>博客具体从什么时候搭建已经无可追寻了，但大概是2020.4~2020.6这一段时间，说来惭愧，一个搞了1年多的博客到现在却只有几篇文章。</p><p>诚然，我的博客已经建好了，但是我的文笔，技术仍然有欠缺，如果你觉得本站有任何的缺点请在<a href="https://onexuezha.github.io/feedback/index.html">反馈</a>页面提出</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt; 不知不觉，2021已经过去&lt;/p&gt;
+&lt;p&gt;在这一年里，我的收获说小不小，说大不大&lt;/p&gt;
+&lt;p&gt;我遇见了很多朋友&lt;/p&gt;
+&lt;p&gt;同时&lt;/p&gt;
+&lt;p&gt;我也遇到了无数个bug，至今记忆犹新&lt;/p&gt;
+&lt;p&gt;其实，早在我初一时就开始搭建博客了，那时的我对前端基本空白，自己也不想靠</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>苹果御用字体</title>
@@ -98,31 +123,6 @@
     
     
     <category term="hexo优化" scheme="https://onexuezha.github.io/tags/hexo%E4%BC%98%E5%8C%96/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>2021年终总结</title>
-    <link href="https://onexuezha.github.io/post/a23e5172.html"/>
-    <id>https://onexuezha.github.io/post/a23e5172.html</id>
-    <published>2020-12-31T17:00:00.000Z</published>
-    <updated>2022-01-01T04:35:13.266Z</updated>
-    
-    <content type="html"><![CDATA[<p>  不知不觉，2021已经过去</p><p>在这一年里，我的收获说小不小，说大不大</p><p>我遇见了很多朋友</p><p>同时</p><p>我也遇到了无数个bug，至今记忆犹新</p><p>其实，早在我初一时就开始搭建博客了，那时的我对前端基本空白，自己也不想靠别人也就没加蝴蝶主题qq群，一个人每天对着电脑敲代码，改bug。</p><p>可惜当时的忘记装一个插件导致无数次失败，但我又住校周六周日才有空去搞博客。最后还是放弃了</p><p>暑假来了，我又尝试搭建博客，但这次不同，我学了HTML与css，过程仍然艰辛，常常是一个bug改好了，另一个bug出来了，改也改不完，再一次放弃。当然不是说暑假就只搭建了博客，我还另外学了Unity开发了一款超多bug的游戏（反正干啥都会遇见bug）</p><p>步入初二的大门，我依然没有放弃，每天都在和bug做斗争，尽管每次都是我输</p><p>直到——2021.9.3</p><p>初二，不住校了，在上完晚自习后就萌生了搞Linux的想法，间接接触了vm虚拟机，也知道了快照的概念，按理说我应该会把精力方式到Ubuntu上，但事实并非如此，当我知道vm虚拟机的快照功能后，立马想到了可以用来搭建hexo，很庆幸，这是个正确的选择。后面就开始用快照功能一点一点搭建博客（以下是我保存的快照）<img src="https://unpkg.zhimg.com/onexuezha_article_img1@1.0.4/2021%E5%B9%B4%E6%80%BB%E6%80%BB%E7%BB%93/2021_1.webp"></p><p>然而</p><p>bug并没有离开我，后面建着建着发现很多奇葩的bug，比如代码复制用不了，无论点击哪个文章都跳转到同一个文章，等我解决了这些bug，又发现index.css加载不了，整个页面只有HTML</p><p>因此</p><p>我又把博客想方设法地转到了物理机上，最后成了，也一直用到了今天</p><p>遇到了这么多bug，我觉得还是蛮值得，在这么多bug中我总结了很多经验，养成了许多好习惯，更为重要的是我获得了比别人更扎实的基础，这在将来对我一定会有很大的帮助！</p><p>博客具体从什么时候搭建已经无可追寻了，但大概是2020.4~2020.6这一段时间，说来惭愧，一个搞了1年多的博客到现在却只有几篇文章。</p><p>诚然，我的博客已经建好了，但是我的文笔，技术仍然有欠缺，如果你觉得本站有任何的缺点请在<a href="https://onexuezha.github.io/feedback/index.html">反馈</a>页面提出</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;  不知不觉，2021已经过去&lt;/p&gt;
-&lt;p&gt;在这一年里，我的收获说小不小，说大不大&lt;/p&gt;
-&lt;p&gt;我遇见了很多朋友&lt;/p&gt;
-&lt;p&gt;同时&lt;/p&gt;
-&lt;p&gt;我也遇到了无数个bug，至今记忆犹新&lt;/p&gt;
-&lt;p&gt;其实，早在我初一时就开始搭建博客了，那时的我对前端基本空白，自己也不想</summary>
-      
-    
-    
-    
     
   </entry>
   
