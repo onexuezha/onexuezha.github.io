@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://onexuezha.github.io/record/index.html</loc>
+    
+    <lastmod>2022-01-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://onexuezha.github.io/fwq/index.html</loc>
+    
+    <lastmod>2022-01-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://onexuezha.github.io/post/40b88bbc.html</loc>
     
     <lastmod>2022-01-07</lastmod>
@@ -11,7 +29,7 @@
   </url>
   
   <url>
-    <loc>https://onexuezha.github.io/post/f6880df7.html</loc>
+    <loc>https://onexuezha.github.io/post/ac2ff674.html</loc>
     
     <lastmod>2022-01-07</lastmod>
     
@@ -20,7 +38,7 @@
   </url>
   
   <url>
-    <loc>https://onexuezha.github.io/post/ac2ff674.html</loc>
+    <loc>https://onexuezha.github.io/post/f6880df7.html</loc>
     
     <lastmod>2022-01-07</lastmod>
     
@@ -50,15 +68,6 @@
     <loc>https://onexuezha.github.io/post/a23e5172.html</loc>
     
     <lastmod>2022-01-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://onexuezha.github.io/record/index.html</loc>
-    
-    <lastmod>2021-12-27</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -121,7 +130,7 @@
 
   <url>
     <loc>https://onexuezha.github.io/</loc>
-    <lastmod>2022-01-07</lastmod>
+    <lastmod>2022-01-13</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -129,14 +138,14 @@
   
   <url>
     <loc>https://onexuezha.github.io/tags/%E8%BD%AF%E4%BB%B6/</loc>
-    <lastmod>2022-01-07</lastmod>
+    <lastmod>2022-01-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://onexuezha.github.io/tags/hexo%E4%BC%98%E5%8C%96/</loc>
-    <lastmod>2022-01-07</lastmod>
+    <lastmod>2022-01-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -145,28 +154,28 @@
   
   <url>
     <loc>https://onexuezha.github.io/categories/%E4%BC%98%E8%B4%A8%E6%8E%A8%E8%8D%90/</loc>
-    <lastmod>2022-01-07</lastmod>
+    <lastmod>2022-01-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://onexuezha.github.io/categories/%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93/</loc>
-    <lastmod>2022-01-07</lastmod>
+    <lastmod>2022-01-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://onexuezha.github.io/categories/hexo/</loc>
-    <lastmod>2022-01-07</lastmod>
+    <lastmod>2022-01-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://onexuezha.github.io/categories/%E9%97%B2%E8%81%8A%E6%9D%82%E8%B0%88/</loc>
-    <lastmod>2022-01-07</lastmod>
+    <lastmod>2022-01-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>

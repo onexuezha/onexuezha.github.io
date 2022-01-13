@@ -6,7 +6,7 @@
   <link href="https://onexuezha.github.io/atom.xml" rel="self"/>
   
   <link href="https://onexuezha.github.io/"/>
-  <updated>2022-01-07T22:04:08.176Z</updated>
+  <updated>2022-01-07T22:40:26.482Z</updated>
   <id>https://onexuezha.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://onexuezha.github.io/post/ac2ff674.html"/>
     <id>https://onexuezha.github.io/post/ac2ff674.html</id>
     <published>2022-01-07T20:55:35.000Z</published>
-    <updated>2022-01-07T22:04:08.176Z</updated>
+    <updated>2022-01-07T22:40:26.482Z</updated>
     
     <content type="html"><![CDATA[<p>总所周知，typora他收费了！</p><p>Typora可谓处于Markdown编辑器的第一梯队，功能完善，设计简洁大方，所见即所得的编辑方式，还是免费的！在此之前成为了很多人的心头好。但当然，这是以前</p><p>现在要81￥，虽然可以用破解版，但是我还是去搜索了一下类似的替代品</p><p>结果还真让我找到了——<a href="https://marktext.app/">Mark Text</a></p><h1 id="介绍"><a href="#介绍" class="headerlink" title="介绍"></a>介绍</h1><p>不管是小白还是喜欢自己定制的用户分享都能快速上手，这款叫MarkText的编辑器界面同样清新，支持更换白天和黑夜主题。号称是下一代 Markdown 编辑器！可用于 Linux、macOS 和 Windows</p><ul><li><p>与typora一样，所见即所得</p></li><li><p>强大的表格支持：支持 GFM 表块，可以删除/添加行和列</p></li><li><p>图表功能：支持流程图，时序图，甘特图，折线图等常用数据图表</p></li><li><p>支持 CommonMark 和 GitHub 风格的 Markdown 规范的行内格式排版（inline formats）</p></li><li><p>支持 MarkDown 扩展版的数学公式</p></li><li><p>支持代码块，通过 prismjs 来高亮显示代码</p></li><li><p>MarkText采用 snabbdom 作为 MarkText 渲染引擎，保证了极速渲染编辑页面，带来流畅的书写体验。生成的 Markdown 可以复制到任何支持 markdown 格式的社区、网站</p></li><li><p>还有一个比较有趣的点是，这个编辑器还支持斗图，准确来说是在文章中插入表情包，快捷键 Ctrl + / 直接打开斗图搜索面板，然后就可以用了。这个斗图功能以前在设置是默认关闭的，现在默认开放了</p></li><li><p>打字模式、源代码模式和专注模式</p></li><li><p>添加图片也可以直接复制粘贴</p></li><li><p>各种小细节</p><p>总的使用体验比typora好一万倍!!!!!!!!!!!!!</p></li></ul><p>在知乎上更为详细的介绍<a href="https://zhuanlan.zhihu.com/p/438852089">Typora收费，为你提供开源免费的平替竞品MarkText的中文说明书，解释所有设置项中的英文表述 - 知乎 (zhihu.com)</a></p>]]></content>
     
@@ -45,7 +45,7 @@
     <link href="https://onexuezha.github.io/post/40b88bbc.html"/>
     <id>https://onexuezha.github.io/post/40b88bbc.html</id>
     <published>2022-01-07T20:53:49.000Z</published>
-    <updated>2022-01-07T22:13:50.534Z</updated>
+    <updated>2022-01-07T22:40:26.492Z</updated>
     
     <content type="html"><![CDATA[<p>事情是这样的</p><p>2022.1.2我在过完元旦后，一时起意想搞一个黑苹果玩玩，所以从早上7点左右就开始搞，但我显然低估了难度，自己电脑本身就是老电脑了，不仅引导文件难找，网上的教程还少，搭了半天也没搭好</p><p>转念一想</p><p>爷不搭了，黑苹果不要了，转而去搭建Ubuntu。在之前，我就在vm虚拟机里搭建过，并且还在上面搞了博客。因此搭建一个win10与Ubuntu应该不难</p><p>但是</p><p>事与愿违，之前为了搭建黑苹果而将本地硬盘格式化了，所有要用的工具也转移到一个外接的500机械上，然后在搭建Ubuntu中需要制作一个启动u盘，但当时的我已经很累了，眼一花，手一抖，不小心将500g机械给格式化了，上面可是有我各种的资料啊！包括博客，项目，课程，源码，软件等等统统没了</p><p>欲哭无泪</p><p>但也没什么办法，只能用恢复软件抢救一下了</p><p>这一次数据丢失是我有史以来犯过最低级也是最严重的错误，直接导致我之前建立的移动系统崩溃，各种重要资料丢失，上面我开发的软件（c#）项目也丢失，一切都得从来….😔</p><p>但是我相信这一次文件的丢失也可以让我进步</p><p>之前的hexo博客其实有很多的bug，在这一次丢失后我虽然要重搞，但恰好可以修复一些藏得很深的bug。</p><p>之前的硬盘储存很乱，各种资料乱扔，在这次全部文件丢失后，恰好可以好好整理一下</p><p>之前的游戏安装在硬盘上，每次看见都想玩，在这次丢失后，恰好可以把游戏戒了</p><p>2022.1.8终于把博客恢复了!</p>]]></content>
     
