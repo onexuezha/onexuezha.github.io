@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://onexuezha.github.io/post/a23e5172.html</loc>
+    <loc>https://onexuezha.github.io/post/ed8385e4.html</loc>
     
     <lastmod>2022-01-13</lastmod>
     
@@ -11,7 +11,16 @@
   </url>
   
   <url>
-    <loc>https://onexuezha.github.io/post/ed8385e4.html</loc>
+    <loc>https://onexuezha.github.io/post/ac2ff674.html</loc>
+    
+    <lastmod>2022-01-13</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://onexuezha.github.io/post/a23e5172.html</loc>
     
     <lastmod>2022-01-13</lastmod>
     
@@ -68,15 +77,6 @@
     <loc>https://onexuezha.github.io/fwq/index.html</loc>
     
     <lastmod>2022-01-11</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://onexuezha.github.io/post/ac2ff674.html</loc>
-    
-    <lastmod>2022-01-07</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -160,13 +160,6 @@
   </url>
   
   <url>
-    <loc>https://onexuezha.github.io/categories/%E4%BC%98%E8%B4%A8%E6%8E%A8%E8%8D%90/</loc>
-    <lastmod>2022-01-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://onexuezha.github.io/categories/%E6%8E%A8%E8%8D%90/</loc>
     <lastmod>2022-01-13</lastmod>
     <changefreq>weekly</changefreq>
@@ -174,14 +167,14 @@
   </url>
   
   <url>
-    <loc>https://onexuezha.github.io/categories/%E6%95%99%E7%A8%8B/</loc>
+    <loc>https://onexuezha.github.io/categories/%E6%B0%B4%E6%96%87/</loc>
     <lastmod>2022-01-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://onexuezha.github.io/categories/%E6%B0%B4%E6%96%87/</loc>
+    <loc>https://onexuezha.github.io/categories/%E6%95%99%E7%A8%8B/</loc>
     <lastmod>2022-01-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>

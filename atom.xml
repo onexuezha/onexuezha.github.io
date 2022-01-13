@@ -6,7 +6,7 @@
   <link href="https://onexuezha.github.io/atom.xml" rel="self"/>
   
   <link href="https://onexuezha.github.io/"/>
-  <updated>2022-01-07T22:40:26.482Z</updated>
+  <updated>2022-01-13T09:24:47.512Z</updated>
   <id>https://onexuezha.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://onexuezha.github.io/post/ac2ff674.html"/>
     <id>https://onexuezha.github.io/post/ac2ff674.html</id>
     <published>2022-01-07T20:55:35.000Z</published>
-    <updated>2022-01-07T22:40:26.482Z</updated>
+    <updated>2022-01-13T09:24:47.512Z</updated>
     
     <content type="html"><![CDATA[<p>总所周知，typora他收费了！</p><p>Typora可谓处于Markdown编辑器的第一梯队，功能完善，设计简洁大方，所见即所得的编辑方式，还是免费的！在此之前成为了很多人的心头好。但当然，这是以前</p><p>现在要81￥，虽然可以用破解版，但是我还是去搜索了一下类似的替代品</p><p>结果还真让我找到了——<a href="https://marktext.app/">Mark Text</a></p><h1 id="介绍"><a href="#介绍" class="headerlink" title="介绍"></a>介绍</h1><p>不管是小白还是喜欢自己定制的用户分享都能快速上手，这款叫MarkText的编辑器界面同样清新，支持更换白天和黑夜主题。号称是下一代 Markdown 编辑器！可用于 Linux、macOS 和 Windows</p><ul><li><p>与typora一样，所见即所得</p></li><li><p>强大的表格支持：支持 GFM 表块，可以删除/添加行和列</p></li><li><p>图表功能：支持流程图，时序图，甘特图，折线图等常用数据图表</p></li><li><p>支持 CommonMark 和 GitHub 风格的 Markdown 规范的行内格式排版（inline formats）</p></li><li><p>支持 MarkDown 扩展版的数学公式</p></li><li><p>支持代码块，通过 prismjs 来高亮显示代码</p></li><li><p>MarkText采用 snabbdom 作为 MarkText 渲染引擎，保证了极速渲染编辑页面，带来流畅的书写体验。生成的 Markdown 可以复制到任何支持 markdown 格式的社区、网站</p></li><li><p>还有一个比较有趣的点是，这个编辑器还支持斗图，准确来说是在文章中插入表情包，快捷键 Ctrl + / 直接打开斗图搜索面板，然后就可以用了。这个斗图功能以前在设置是默认关闭的，现在默认开放了</p></li><li><p>打字模式、源代码模式和专注模式</p></li><li><p>添加图片也可以直接复制粘贴</p></li><li><p>各种小细节</p><p>总的使用体验比typora好一万倍!!!!!!!!!!!!!</p></li></ul><p>在知乎上更为详细的介绍<a href="https://zhuanlan.zhihu.com/p/438852089">Typora收费，为你提供开源免费的平替竞品MarkText的中文说明书，解释所有设置项中的英文表述 - 知乎 (zhihu.com)</a></p>]]></content>
     
@@ -35,7 +35,7 @@
     
     
     
-    <category term="优质推荐" scheme="https://onexuezha.github.io/categories/%E4%BC%98%E8%B4%A8%E6%8E%A8%E8%8D%90/"/>
+    <category term="推荐" scheme="https://onexuezha.github.io/categories/%E6%8E%A8%E8%8D%90/"/>
     
     
   </entry>
@@ -120,7 +120,7 @@
     <link href="https://onexuezha.github.io/post/ed8385e4.html"/>
     <id>https://onexuezha.github.io/post/ed8385e4.html</id>
     <published>2021-12-26T12:27:23.000Z</published>
-    <updated>2022-01-13T09:22:06.441Z</updated>
+    <updated>2022-01-13T09:25:00.941Z</updated>
     
     <content type="html"><![CDATA[<h1 id="导言"><a href="#导言" class="headerlink" title="导言"></a>导言</h1><p>最近有些文件需要加密，防止被别人窃取，但是找了很久也没找到符合心意的软件，好在皇天不负有心人，我最终找到了号称FBI也破解不了的加密软件</p><h1 id="什么是VeraCrypt？"><a href="#什么是VeraCrypt？" class="headerlink" title="什么是VeraCrypt？"></a>什么是VeraCrypt？</h1><p><a href="https://veracrypt.fr/en/Home.html">下载链接</a></p><p>VeraCrypt 中文版是一款适用于 Windows，Mac OSX 和 Linux 的免费开源磁盘加密软件。VeraCrypt 是 TrueCrypt 的分支，主要开发者是法国的 Mounir Idrassi，他在 TrueCrypt 基础上强化了防暴力免费功能。VeraCrypt 增强了用于系统和分区加密的算法的安全性，使其免受暴力免费攻击。VeraCrypt 还解决了TrueCrypt中发现的许多漏洞和安全问题。</p><h1 id="VeraCrypt-主要特点"><a href="#VeraCrypt-主要特点" class="headerlink" title="VeraCrypt 主要特点"></a>VeraCrypt 主要特点</h1><p>在文件中创建虚拟加密磁盘并将其作为实际磁盘安装。<br>加密整个分区或存储设备，如 USB 闪存驱动器或硬盘驱动器。<br>加密安装 Windows 的分区或驱动器（预启动身份验证）。<br>加密是自动的，实时的（即时）和透明的。<br>并行化和流水线操作允许读取和写入数据，就像驱动器未加密一样快。<br>加密可以在现代处理器上进行硬件加速。<br>如果对手强迫您泄露密码，则提供合理的拒绝：隐藏卷（隐写）和隐藏的操作系统。</p><p>VeraCrypt 是一个用于建立和维护动态加密卷（数据存储设备）的软件。即时加密意味着数据在保存之前就会自动加密，并在加载后立即解密，无需任何用户干预。如果不使用正确的密码/密钥文件或正确的加密密钥，则无法读取（解密）存储在加密卷上的数据。整个文件系统被加密（例如，文件名，文件夹名，每个文件的内容，空闲空间，元数据等）。</p><p>可以将文件复制到已安装的 VeraCrypt 卷中，也可以将其复制到任何普通磁盘上（例如，通过简单的拖放操作）。在从加密的 VeraCrypt 卷读取或复制文件时，文件会在运行中（在内存/RAM 中）自动解密。同样，正在写入或复制到 VeraCrypt 卷的文件会在 RAM 中自动加密（在它们写入磁盘之前）。请注意，这并不意味着要加密/解密的整个文件必须先存储在RAM中才能加密/解密。VeraCrypt 没有额外的内存（RAM）要求。有关如何完成此操作的说明，请参阅以下段落。</p><p>假设有一个 .avi 视频文件存储在 VeraCrypt 卷上（因此，视频文件是完全加密的）。用户提供正确的密码（和/或密钥文件）并安装（打开）VeraCrypt 卷。当用户双击视频文件的图标时，操作系统启动与文件类型相关联的应用程序 – 通常是媒体播放器。然后，媒体播放器开始将视频文件的一小部分初始部分从 VeraCrypt 加密卷加载到 RAM（存储器）以便播放它。在加载该部分时，VeraCrypt 会自动解密它（在 RAM 中）。然后，媒体播放器播放视频的解密部分（存储在 RAM 中）。在播放此部分时，媒体播放器开始将另一小部分视频文件从 VeraCrypt 加密卷加载到 RAM（内存），然后重复该过程。此过程称为动态加密/解密，适用于所有文件类型（不仅适用于视频文件）。</p><p>请注意，VeraCrypt 从不将任何解密数据保存到磁盘 – 它只将它们临时存储在 RAM（内存）中。即使安装了卷，存储在卷中的数据仍然是加密的。当您重新启动Windows或关闭计算机时，将卸除卷，并且将无法访问（并加密）存储在其中的文件。即使电源突然中断（没有正确的系统关闭），存储在卷中的文件也是不可访问（和加密）的。要使它们再次可访问，您必须装入卷（并提供正确的密码和/或密钥文件）。</p><p>有关 VeraCrypt 功能的更多信息，请参阅文档。</p>]]></content>
     
@@ -132,7 +132,7 @@
     
     
     
-    <category term="优质推荐" scheme="https://onexuezha.github.io/categories/%E4%BC%98%E8%B4%A8%E6%8E%A8%E8%8D%90/"/>
+    <category term="推荐" scheme="https://onexuezha.github.io/categories/%E6%8E%A8%E8%8D%90/"/>
     
     
     <category term="软件" scheme="https://onexuezha.github.io/tags/%E8%BD%AF%E4%BB%B6/"/>
