@@ -47,15 +47,14 @@
     <link href="https://onexuezha.github.io/post/eca2c36b.html"/>
     <id>https://onexuezha.github.io/post/eca2c36b.html</id>
     <published>2022-01-13T11:16:36.000Z</published>
-    <updated>2022-01-18T12:08:00.475Z</updated>
+    <updated>2022-01-21T06:37:17.650Z</updated>
     
-    <content type="html"><![CDATA[<p>占位</p>]]></content>
+    <content type="html"><![CDATA[<div class="tabs" id="test4"><ul class="nav-tabs"><li class="tab active"><button type="button" data-href="#test4-1">更换地图</button></li><li class="tab"><button type="button" data-href="#test4-2">更新版本</button></li></ul><div class="tab-contents"><div class="tab-item-content active" id="test4-1"><p>注意：更换地图最好是同版本或者是低版本地图转高版本，切勿高版本转低版本</p><details class="folding-tag" ><summary> 第一种方法 </summary>              <div class='content'>              <p>此方法将会把旧地图覆盖</p><p>在你的MC服务端的根目录，找到world文件夹，把里面的文件清空，再将你客户端里的存档复制到world文件夹里</p>              </div>            </details><details class="folding-tag" ><summary> 第二种方法 </summary>              <div class='content'>              <p>在你的MC服务端的根目录下，找到server.properties文件，用文本编辑器或者记事本之类的东西来打开，找到level-seed=，然后把地图种子粘贴到等号(=)的后面并保存</p>              </div>            </details><details class="folding-tag" ><summary> 第三种方法 </summary>              <div class='content'>              <p>此法可以保留原地图和其他地图</p><p>用多世界插件，下载以及用法参考<a href="https://www.mcbbs.net/thread-1016455-1-1.html">Mcbbs</a></p>              </div>            </details><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="test4-2"><p>首先下载对应服务器核心版本，按照之前的<a href="https://onexuezha.vercel.app/post/b06129f1.html">教程</a>搭建好，最后再用前面换地图的方法替换地图即可</p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div></div></div>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;占位&lt;/p&gt;
-</summary>
+    <summary type="html">&lt;div class=&quot;tabs&quot; id=&quot;test4&quot;&gt;&lt;ul class=&quot;nav-tabs&quot;&gt;&lt;li class=&quot;tab active&quot;&gt;&lt;button type=&quot;button&quot; data-href=&quot;#test4-1&quot;&gt;更换地图&lt;/button&gt;&lt;/li&gt;&lt;li cl</summary>
       
     
     
@@ -72,15 +71,18 @@
     <link href="https://onexuezha.github.io/post/210bf56.html"/>
     <id>https://onexuezha.github.io/post/210bf56.html</id>
     <published>2022-01-13T11:16:34.000Z</published>
-    <updated>2022-01-18T12:08:09.525Z</updated>
+    <updated>2022-01-21T06:42:43.139Z</updated>
     
-    <content type="html"><![CDATA[<p>占位</p>]]></content>
+    <content type="html"><![CDATA[<p>  目录</p><p>GriefDefender</p><details class="folding-tag" ><summary> GriefDefender </summary>              <div class='content'>              <details class="folding-tag" ><summary> 简介 </summary>              <div class='content'>              <p>简介</p>              </div>            </details>              </div>            </details>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;占位&lt;/p&gt;
-</summary>
+    <summary type="html">&lt;p&gt;  目录&lt;/p&gt;
+&lt;p&gt;GriefDefender&lt;/p&gt;
+&lt;details class=&quot;folding-tag&quot; &gt;&lt;summary&gt; GriefDefender &lt;/summary&gt;
+              &lt;div class=&#39;content&#39;&gt;
+      </summary>
       
     
     
