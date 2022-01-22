@@ -6,7 +6,7 @@
   <link href="https://onexuezha.github.io/atom.xml" rel="self"/>
   
   <link href="https://onexuezha.github.io/"/>
-  <updated>2022-01-18T12:12:57.990Z</updated>
+  <updated>2022-01-22T04:38:25.733Z</updated>
   <id>https://onexuezha.github.io/</id>
   
   <author>
@@ -15,6 +15,55 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>我如何防御别人攻击博客</title>
+    <link href="https://onexuezha.github.io/post/52389151.html"/>
+    <id>https://onexuezha.github.io/post/52389151.html</id>
+    <published>2022-01-22T03:17:12.000Z</published>
+    <updated>2022-01-22T04:38:25.733Z</updated>
+    
+    <content type="html"><![CDATA[<p>  自从糖果屋的几个群友被攻击后，我才重视起了网站防御，这篇文章并不是一篇教程，而是分享我是如何防御网站攻击的</p><details class="folding-tag" ><summary> 镜像站 </summary>              <div class='content'>              <p>GitHub| GitLab| Gitee | Bitbucket| Vercel | Netlify| CloudFlare</p><p>这些目前我都准备好了，其中github和vercel公开，其余域名账户均保密（防止被一锅端）</p><p>当然你还可以准备多个服务器，但千万不要透露，等其中一个被攻击了就换另一个</p>              </div>            </details><details class="folding-tag" ><summary> 评论 </summary>              <div class='content'>              <p>bf主题目前支持双评论，我的建议是是挂两个上去，剩下的也要注册账户，防止其中一个评论系统挂了还可以及时补上</p>              </div>            </details><details class="folding-tag" ><summary> 图片 </summary>              <div class='content'>              <p>目前我是没有买任何的图床，把npm当图床zhimg当加速节点，优点就是免费还靠谱（zhimg是知乎的节点）但是昨天zhimg就无法使用了（应该会恢复）因此为了防止节点跑路，就要用到hexo的一个插件gulp-replace，这一个插件可以替换博客中的文本达到替换文本的效果，具体使用请自行百度</p>              </div>            </details><p>基本上就只有这么点，全部都是被动防御，但对于目前的我已经足够了</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;  自从糖果屋的几个群友被攻击后，我才重视起了网站防御，这篇文章并不是一篇教程，而是分享我是如何防御网站攻击的&lt;/p&gt;
+&lt;details class=&quot;folding-tag&quot; &gt;&lt;summary&gt; 镜像站 &lt;/summary&gt;
+              &lt;div cla</summary>
+      
+    
+    
+    
+    <category term="水文" scheme="https://onexuezha.github.io/categories/%E6%B0%B4%E6%96%87/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>谨防网站攻击</title>
+    <link href="https://onexuezha.github.io/post/15b2ecf1.html"/>
+    <id>https://onexuezha.github.io/post/15b2ecf1.html</id>
+    <published>2022-01-21T12:48:15.000Z</published>
+    <updated>2022-01-22T03:15:05.355Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p>注：文章中的“<a href="https://akilar.top/">店长</a>”为一个博主“糖果屋”，为一个hexo的讨论群，你并不用了解忽略就好</p></blockquote><p>早上一起来就听糖果屋的群友说什么zhimg挂了，一开始我不以为然觉得就是zhimg的部署速度没那么快，然而到了中午群里还是有人在讨论这件事，如果有人f12看过我的图片链接就知道，我的图片全部通过npm包存储再用知乎网宿进行加速处理，而我在选加速节点时就考虑了蛮久，选择了我最相信的知乎节点，我认为知乎的应该会靠谱一点，可却没想到这就挂了，当然我还保有一线希望，毕竟现在只是没法添加新的图片了，旧的图片还能用，店长也说可能解包时出的问题，反正希望能够恢复使用</p><p>再就是糖果屋有人被c和d攻击了，截至本文发布共有三位，好像是有人通过友联攻击的，具体情况我也不是很清楚，反正我服务器github，域名自带，图床zhimg，全部免费，就算有人c或者d我也不怕会损失财产，但我用vercel做了镜像，听群友说好像有每月100g的流量限制，所以如果有人攻击我的网站可能会导致流量超从而无法访问，还有博客评论是没有验证码验证，应该也可以用来刷服务器流量导致博客评论崩溃，唉~白嫖还是有风险</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;注：文章中的“&lt;a href=&quot;https://akilar.top/&quot;&gt;店长&lt;/a&gt;”为一个博主“糖果屋”，为一个hexo的讨论群，你并不用了解忽略就好&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;早上一起来就听糖果屋的群友说什么zhimg挂了，一</summary>
+      
+    
+    
+    
+    <category term="水文" scheme="https://onexuezha.github.io/categories/%E6%B0%B4%E6%96%87/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>基于Spigot搭建我的世界原版服务器</title>
