@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://onexuezha.github.io/record/index.html</loc>
+    
+    <lastmod>2022-01-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://onexuezha.github.io/post/e14dadae.html</loc>
     
     <lastmod>2022-01-26</lastmod>
@@ -191,15 +200,6 @@
   </url>
   
   <url>
-    <loc>https://onexuezha.github.io/record/index.html</loc>
-    
-    <lastmod>2022-01-11</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://onexuezha.github.io/fwq/index.html</loc>
     
     <lastmod>2022-01-11</lastmod>
@@ -312,14 +312,14 @@
 
   
   <url>
-    <loc>https://onexuezha.github.io/categories/%E6%80%BB%E7%BB%93/</loc>
+    <loc>https://onexuezha.github.io/categories/%E6%8E%A8%E8%8D%90/</loc>
     <lastmod>2022-01-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://onexuezha.github.io/categories/%E6%8E%A8%E8%8D%90/</loc>
+    <loc>https://onexuezha.github.io/categories/%E6%80%BB%E7%BB%93/</loc>
     <lastmod>2022-01-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
